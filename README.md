@@ -4,5 +4,5 @@ Dies ist das Package Wellenzahl für den Rapid3. Es hilft Ihnen dabei mithilfe v
 ## Konfiguration
 1. Installieren Sie Ros auf beiden Geräten mit dem Installations-script
 2. Führen Sie das Master-script auf dem Gerät mit dem Sensor aus. Standardmäßig ist das Wellenzahl-Package nicht installiert.
-3. Führen Sie das Rviz-Script auf ihrem Gerät aus. Standardmäßig ist das Wellenzahl-Package nicht installiert.
+3. Führen Sie das Einklicken-Script auf ihrem Gerät aus. Standardmäßig ist das Wellenzahl-Package nicht installiert.
 4. Gehen Sie in Rviz in der linken unteren Ecke auf Add --> Pointcloud2. Dann müssen sie nur noch unter Topic das Topic auswählen und die Pointcloud wird Ihnen angeziegt.

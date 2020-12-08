@@ -1,4 +1,4 @@
-# wellenzahl
+# ROS-Wellenzahl
 ## Beschreibung
 Dies ist das Package Wellenzahl für den Rapid3. Es hilft Ihnen dabei mithilfe von Ros und Rviz die Pointcloud des Radarsensors zu visualisieren. Sie können grundsätzlich die Daten des Sensors mit beliebig vielen Geräten abgreifen.
 ## Konfiguration
